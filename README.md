@@ -1,9 +1,9 @@
 # multiple_linear_regression
 
 
-Implementação de Regressão Linear Simples e Múltipla
+## Implementing Single and Multiple Linear Regression
 
-## Scenario is 2 independent variables, house size and number of rooms, and a variable to be predict which is the price
+### Scenario is 2 independent variables, house size and number of rooms, and a variable to be predict which is the price
 
 
 <img width="799" alt="Screen Shot 2023-04-20 at 18 46 47" src="https://user-images.githubusercontent.com/32064166/233494765-36073c35-ee49-401c-b13d-295f9e0761b2.png">
